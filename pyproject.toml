@@ -1,0 +1,11 @@
+[project]
+name = "my-custom-node-name" # No spaces allowed, use dashes
+description = "A short description of what my node does"
+version = "1.0.0"
+
+[project.urls]
+Repository = "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME"
+
+[tool.comfy]
+PublisherId = "YOUR_PUBLISHER_ID" # Found on your Comfy Registry profile
+DisplayName = "The Name Users Will See"
