@@ -1,6 +1,6 @@
 [project]
-name = "my-custom-node-name" # No spaces allowed, use dashes
-description = "A short description of what my node does"
+name = "PonyUltimatePro" # No spaces allowed, use dashes
+description = "AIO Pony Node."
 version = "1.0.0"
 
 [project.urls]
