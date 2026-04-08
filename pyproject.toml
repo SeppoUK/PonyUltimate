@@ -1,11 +1,11 @@
 [project]
 name = "PonyUltimatePro" # No spaces allowed, use dashes
 description = "AIO Pony Node."
-version = "1.0.0"
+version = "1.0.1"
 
 [project.urls]
-Repository = "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME"
+Repository = "https://github.com/SeppoUK/PonyUltimate"
 
 [tool.comfy]
-PublisherId = "YOUR_PUBLISHER_ID" # Found on your Comfy Registry profile
-DisplayName = "The Name Users Will See"
+PublisherId = "speepdev" # Found on your Comfy Registry profile
+DisplayName = "Pony Ultimate"
